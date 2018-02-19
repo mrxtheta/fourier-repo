@@ -1,0 +1,3 @@
+#czestosci w hertzach. Nie jest wa¿ne co jest przed =, wa¿ne jest to, ¿eby zachowaæ kolejnoœæ linijek i ¿eby by³o coœ po =, co pasuje do schematu
+Freq min = 0
+Freq max = 4000
